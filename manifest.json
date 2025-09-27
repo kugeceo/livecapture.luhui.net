@@ -1,0 +1,21 @@
+{
+  "name": "视频转换宝 | 免费的视频转GIF动图、实况照片(LIVP)工具",
+  "short_name": "视频转换宝",
+  "description": "免费将视频转换为实况照片(LIVP)、GIF动图、MP4或WebM格式",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f0f7ff",
+  "theme_color": "#4f46e5",
+  "icons": [
+    {
+      "src": "/favicon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+} 
