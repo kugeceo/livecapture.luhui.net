@@ -1,0 +1,31 @@
+{
+  "pageProps": {
+    "title": "视频转换宝 | 免费视频转GIF、实况照片(LIVP)工具",
+    "hero": {
+      "title": "简单高效的视频格式转换工具",
+      "subtitle": "免费将视频转换为GIF、实况照片(LIVP)、MP4、WebM，所有操作在本地完成，保护隐私",
+      "ctaText": "立即开始转换"
+    },
+    "features": [
+      {
+        "title": "隐私优先",
+        "description": "视频无需上传，本地浏览器处理，内容绝对私密"
+      },
+      {
+        "title": "多格式支持",
+        "description": "支持GIF动图、iPhone实况照片(LIVP)、MP4、WebM等格式"
+      },
+      {
+        "title": "批量处理",
+        "description": "一次转换多个文件，支持单独或打包下载结果"
+      },
+      {
+        "title": "高级设置",
+        "description": "自定义质量、分辨率、截取片段，满足个性化需求"
+      }
+    ],
+    "supportedFormats": ["MP4", "MOV", "WebM", "AVI", "FLV"],
+    "faqLink": "/guide#faq"
+  },
+  "__N_SSG": true
+}
